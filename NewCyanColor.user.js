@@ -3,7 +3,7 @@
 // @author Murka
 // @description Adds a new cyan color to the color selection panel
 // @icon https://moomoo.io/img/favicon.png?v=1
-// @version 0.1
+// @version 0.2
 // @match *://moomoo.io/*
 // @match *://*.moomoo.io/*
 // @run-at document-start
@@ -18,6 +18,7 @@
     Github: https://github.com/Murka007
     Discord: https://discord.gg/sG9cyfGPj5
     Greasyfork: https://greasyfork.org/en/users/919633
+    MooMooForge: https://github.com/MooMooForge
 */
 
 (function() {
